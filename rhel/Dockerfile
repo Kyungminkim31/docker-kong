@@ -1,6 +1,6 @@
 ARG RHEL_VERSION=7
 
-FROM registry.access.redhat.com/ubi${RHEL_VERSION}/ubi
+FROM registry.access.redhat.com/ubi7/ubi
 
 MAINTAINER Kong
 
